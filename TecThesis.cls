@@ -63,6 +63,7 @@
   {\normalfont\bfseries}{}{0pt}{\Huge}
 \titlespacing*{\chapter}{0pt}{0pt}{40pt}
 \RequirePackage{siunitx}
+\RequirePackage{csquotes}
 
 %%  Checks if the document is to be printed on just one side of the pages or on both sides and, accordingly, sets up the margins
 \if@twoside
