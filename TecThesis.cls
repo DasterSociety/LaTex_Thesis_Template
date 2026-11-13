@@ -251,7 +251,7 @@
 	\begin{center}
     	\hspace*{1.5in} \hrulefill \hspace*{1.5in} \\
     	{\@graduateProgramDirector}\\
-    	Associate Dean of Graduate Studies \\
+    	Dean of Graduate Studies \\
     	School of Engineering and Sciences
 	\end{center}
 	\begin{center}
